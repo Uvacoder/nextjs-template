@@ -68,7 +68,7 @@
     "all-contributors-cli": "^6.20.0",
     "autoprefixer": "^10.3.1",
     "babel-loader": "^8.2.2",
-    "css-loader": "^6.2.0",
+    "css-loader": "^6.5.1",
     "cypress": "^8.1.0",
     "enzyme": "^3.11.0",
     "eslint": "^7.25.0",
