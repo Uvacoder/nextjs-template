@@ -1,0 +1,2 @@
+require('./copyfiles')
+require('./version')
