@@ -9,6 +9,8 @@ const links = [
   },
   { href: 'https://nextjs.org/docs', label: 'NextJS Docs' },
   { href: 'https://tailwindcss.com/docs', label: 'Tailwind Docs' },
+  { href: 'https://create-react-app.dev/docs/documentation-intro', label: 'Create React App Docs' },
+  { href: 'https://docs.netlify.com', label: 'Netlify Docs' },
 ]
 
 export const Navigation = () => {
